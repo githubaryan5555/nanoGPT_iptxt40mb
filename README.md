@@ -3,7 +3,12 @@
 
 ![nanoGPT](assets/nanogpt.jpg)
 
-
+WARN! intended for input.txt of 34mb a 95mb~~~ st.txt has also been done
+95mb as GitHub browser ui can't upload more then 100mb files
+model file too big to include
+/nanoGPT_iptxt40mb/out-iptxt ckpt.pt 303.3mb
+...
+vanilla nanoGPT
 ---
 
 **Update Nov 2025** nanoGPT has a new and improved cousin called [nanochat](https://github.com/karpathy/nanochat). It is very likely you meant to use/find nanochat instead. nanoGPT (this repo) is now very old and deprecated but I will leave it up for posterity.
