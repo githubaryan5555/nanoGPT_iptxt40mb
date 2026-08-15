@@ -3,6 +3,7 @@
 
 ![nanoGPT](assets/nanogpt.jpg)
 
+I HATE CHARACTER LEVEL TOKENIZERS AND NEVER USE THEM DONT LISTEN TO COMMENTS
 WARN! intended for input.txt of 34mb a 95mb~~~ st.txt has also been done
 95mb as GitHub browser ui can't upload more then 100mb files
 model file too big to include
